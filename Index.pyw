@@ -2,19 +2,19 @@ import os, sys, Tkinter, tkMessageBox
 
 Widget = Tkinter.Tk()
 textA = ('**********************************************\n' +
-           '              Delete File Path               \n' +
+           '            Delete File Path        \n' +
            '**********************************************')
 textB = ('**********************************************\n' +
-           '              Add New File Path               \n' +
+           '         Add New File Path     \n' +
            '**********************************************')
 textC = ('**********************************************\n' +            
-           '             Copy Data               \n' +
+           '             Copy Data            \n' +
            '**********************************************')
 textD = ('**********************************************\n' +            
-           '                Quit               \n' +
+           '                Quit                 \n' +
            '**********************************************')
 textE = ('**********************************************\n' +            
-           '      Created by [RGN] WarKingMak\n' +
+           '          Created by KingMaK        \n' +
            '**********************************************')
 
 def DelFilePaths():
@@ -33,7 +33,7 @@ def Quit():
    sys.exit('')
 
 def Author():
-   os.system('start http://rawgamingnation.com/index.php/user/4326-warkingmak/')
+   os.system('start https://github.com/kingmak')
    
 DelFilePath =  Tkinter.Button(Widget, text = textA, command = DelFilePaths)
 AddFilePath = Tkinter.Button(Widget, text = textB, command = EditFilePaths)
