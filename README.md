@@ -17,4 +17,4 @@ Possible Order of Operation:
 2) Repeat This Step Until All the File Paths Are Added, or Go To Setup 3
 3) Once All File Paths Are Added Hit Copy Data and the Data Will be Shared
 
-** File Paths Can Also be Removed When You Delete File Path. 
+** File Paths Can Also be Removed When You Delete File Path.  
