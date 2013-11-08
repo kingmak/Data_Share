@@ -1,7 +1,7 @@
 Data_Share
 ==========
 
-This program collects data from multiple files and then shares it amongst the files. Suppose we have files A, B, C and D that consist of different data. We want all the files to share this data with each other so File A will also have the data from file B, C and D and so on with other files. This is what the program is acomplishing. 
+This program collects data from multiple files and then shares it amongst the files. Suppose we have files A, B, C and D that consist of different data. We want all the files to share this data with each other so File A will also have the data from file B, C and D and so on with other files. This is what the program is doing. 
 
 The inspiration came from running multiple Call of Duty Modern Warfare 2 servers at once. If a hacker joined one of my running servers and got banned then I had to copy their IP to all other server files too so that they don't join my other servers. It was taking too long manually thus this program was created.
 
