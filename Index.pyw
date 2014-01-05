@@ -1,4 +1,4 @@
-import os, sys, Tkinter, tkMessageBox
+import os, sys, re, urllib2, webbrowser, Tkinter, tkMessageBox
 
 Widget = Tkinter.Tk()
 textA = ('**********************************************\n' +
@@ -33,7 +33,7 @@ def Quit():
    sys.exit('')
 
 def Author():
-   os.system('start https://github.com/kingmak')
+   webbrowser.open_new_tab('http://rawgamingnation.com/index.php/user/4326-warkingmak/')
    
 DelFilePath =  Tkinter.Button(Widget, text = textA, command = DelFilePaths)
 AddFilePath = Tkinter.Button(Widget, text = textB, command = EditFilePaths)
