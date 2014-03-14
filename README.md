@@ -20,4 +20,7 @@ Possible Order of Operation:
 
 ** The Data can be anything but in the example files folder there are 3 files where use names as data. Try using those files to understand what the program is doing. Thank you again.
 
-~~SDASDASD~~
+'''
+imoprt os
+print 'King'
+'''
