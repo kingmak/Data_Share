@@ -20,8 +20,4 @@ Possible Order of Operation:
 
 ** The Data can be anything but in the example files folder there are 3 files where use names as data. Try using those files to understand what the program is doing. Thank you again.
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+~~SDASDASD~~
