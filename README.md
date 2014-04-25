@@ -6,7 +6,6 @@ The inspiration came from running multiple Call of Duty Modern Warfare 2 servers
 
 If you find any improvements then please do tell me. Also please let me know if you have any questions.
 
-Thank you :D
 
 [LAUNCH INDEX.PYW TO RUN THE PROGRAM]
 
@@ -18,4 +17,4 @@ Possible Order of Operation:
 
 ** When deleting File Paths, the Text File that contains the paths pops us, so we have to remove them manually :( (possible improvement: make the file path removal process be automated [click of buttons])
 
-** The Data can be anything but in the example files folder there are 3 files where use names as data. Try using those files to understand what the program is doing. Thank you again.
+** The Data can be anything but in the example files folder there are 3 files where use names as data. Try using those files to understand what the program is doing
