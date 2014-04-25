@@ -12,9 +12,9 @@ Thank you :D
 
 Possible Order of Operation:
 
--1) Click on Add New File Path
--2) Repeat This Step Until All the File Paths Are Added, or Go To Setup 3
--3) Once All File Paths Are Added Hit Copy Data and the Data Will be Shared
+1. Click on Add New File Path
+2. Repeat This Step Until All the File Paths Are Added, or Go To Setup 3
+3. Once All File Paths Are Added Hit Copy Data and the Data Will be Shared
 
 ** When deleting File Paths, the Text File that contains the paths pops us, so we have to remove them manually :( (possible improvement: make the file path removal process be automated [click of buttons])
 
