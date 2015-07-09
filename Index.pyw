@@ -33,7 +33,7 @@ def Quit():
    sys.exit('')
 
 def Author():
-   webbrowser.open_new_tab('http://rawgamingnation.com/index.php/user/4326-warkingmak/')
+   webbrowser.open_new_tab('https://github.com/kingmak')
    
 DelFilePath =  Tkinter.Button(Widget, text = textA, command = DelFilePaths)
 AddFilePath = Tkinter.Button(Widget, text = textB, command = EditFilePaths)
